@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "約束...feat. LGYankees",
+  "base_artist": "Noa",
+  "createdAt": "2026-01-06T16:45:25.944688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "約束...feat. LGYankees",
+      "artist": "Noa",
+      "has_synced": false,
+      "path": "select/01_約束...feat._LGYankees_Noa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "約束。。 feat.HOME MADE 家族",
+      "artist": "KUSUO",
+      "has_synced": true,
+      "path": "select/02_約束。。_feat.HOME_MADE_家族_KUSUO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "約束。。feat.HOME MADE 家族",
+      "artist": "九州男",
+      "has_synced": true,
+      "path": "select/03_約束。。feat.HOME_MADE_家族_九州男.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "約束。。 feat.HOME MADE 家族",
+      "artist": "九州男",
+      "has_synced": true,
+      "path": "select/04_約束。。_feat.HOME_MADE_家族_九州男.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "約束...feat. LGYankees ・ Noa",
+      "artist": "Noa",
+      "has_synced": false,
+      "path": "select/pl_01_約束...feat._LGYankees_・_Noa_Noa.txt"
+    }
+  ]
+}
